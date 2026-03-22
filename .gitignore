@@ -5,6 +5,7 @@ __pycache__/
 *$py.class
 .Python
 .env
+.claude/settings.local.json
 *.egg-info/
 .eggs/
 dist/
